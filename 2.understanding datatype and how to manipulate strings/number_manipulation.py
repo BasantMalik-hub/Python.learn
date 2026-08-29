@@ -29,3 +29,10 @@ print(score)
 score/=1
 print(score)
 
+# f-strings
+
+score=0
+height=1.8
+is_winning = True
+
+print(f"your score is {score}, your height is {height}, you're winning is {is_winning}")
